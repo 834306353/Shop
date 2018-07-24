@@ -3,3 +3,5 @@
 append GPL
 git有一个暂存区
 git 的足迹变化 又变化了一次
+
+创建了一个新的分支branch
